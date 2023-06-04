@@ -1,5 +1,6 @@
 - ("Hello World!")
 - 👋 Hi, I’m @SADIQ HARUNA
+- am software developer
 - 👀 I loving coding
 - 🌱 I’m currently learning AI & Machine Learning
 - 💞️ I’m looking to collaborate on working together with somebody in order to produce or achieve goals!
