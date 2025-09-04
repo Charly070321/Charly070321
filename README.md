@@ -121,16 +121,26 @@ CSS           ██▌░░░░░░░░░░░░░░░░░░░
 - 🌍 I enjoy working in diverse teams and learning new cultures
 - 💡 My motto: "Code with purpose, design with passion"
 - 🕹️ When not coding, I play chess & explore new tech trends
-
 ---
 
-## 🤝 Let's Collaborate!
+🤝 Collaboration Opportunities
+I'm particularly interested in collaborating on projects that:
 
-> **Ready to build something awesome?**
->
-> 📬 Reach me via [Email](mailto:harunakadiri702@gmail.com) or [WhatsApp](https://api.whatsapp.com/send?phone=+2347032151593)!
->
-> 🧑‍💻 I love working on health, finance, and innovation projects!
+🏥 Health Technology: Telemedicine, patient management, health data analytics
+
+💰 Financial Solutions: Fintech apps, budgeting tools, payment systems
+
+🌱 Education Technology: E-learning platforms, educational resources
+
+🤖 AI & Machine Learning: Practical applications of AI to solve everyday problems
+
+🌍 Social Impact: Projects that make a positive difference in communities
+
+Ready to build something awesome together?
+
+📬 Reach me via Email or WhatsApp!
+
+💼 Check out my Portfolio for more examples of my work
 
 ---
 
@@ -147,17 +157,9 @@ CSS           ██▌░░░░░░░░░░░░░░░░░░░
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MyLikita-Health&repo=mylikitav3)](https://github.com/MyLikita-Health/mylikitav3)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Charly070321&repo=kanohackathon)](https://github.com/Charly070321/kanohackathon)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bits-his&repo=budget-frontend)](https://github.com/bits-his/budget-frontend)
-
----
-📌 Pinned Repositories
-https://github-readme-stats.vercel.app/api/pin/?username=MyLikita-Health&repo=mylikitav3&show_owner=true
-https://github-readme-stats.vercel.app/api/pin/?username=Charly070321&repo=kanohackathon&show_owner=true
-
-https://github-readme-stats.vercel.app/api/pin/?username=bits-his&repo=budget-frontend&show_owner=true
-https://github-readme-stats.vercel.app/api/pin/?username=Charly070321&repo=community-learning-platform&show_owner=true
----
-<!-- Footer Banner --><p align="center"> <img src="https://raw.githubusercontent.com/Charly070321/Charly070321/main/assets/footer.svg" alt="Thanks for visiting!" width="100%" /> </p><p align="center"> <i>Thank you for visiting my profile! Have a great day! 😊</i> </p>
----
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bits-his&repo=budget-frontend)](https://github.com/bits-his/budget-frontend)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bits-his&repo=budget-frontend)](https://github.com/bits-his/budget-frontend)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bits-his&repo=budget-frontend)](https://github.com/bits-his/budget-frontend)
 
 <!-- Footer Banner -->
 <p align="center">
