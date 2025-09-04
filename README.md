@@ -3,6 +3,9 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=0FF7F7&center=true&vCenter=true&width=435&lines=Hello+World!+%F0%9F%91%8B+I'm+SADIQ+HARUNA;Fullstack+Developer+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB;Coding+is+my+passion+%F0%9F%92%BB;Let's+build+something+great+%F0%9F%92%A1" alt="Typing SVG" />
 </p>
 
+
+<img src="https://hatscripts.github.io/circle-flags/flags/ng.svg" width="48" />
+
 <!-- Profile Info -->
 <h2 align="center">👋 Hi, I’m <span style="color:#0ff7f7">@SADIQ HARUNA</span></h2>
 <p align="center">
