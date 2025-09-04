@@ -11,10 +11,8 @@
 
 <!-- Profile picture and social links -->
 <p align="center">
-<!--   <img src="https://avatars.githubusercontent.com/u/Charly070321?v=4" width="150" style="border-radius:50%;border:4px solid #ff00cc;" /> -->
   <img src="https://github.com/user-attachments/assets/4fd57a40-c82a-43ad-97a4-6cc163af37d8" width="150" style="border-radius:50%;border:4px solid #ff00cc; />
-
-  <br/>
+    <br/>
   <a href="https://sadiqharuna.netlify.app"><img src="https://img.shields.io/badge/Website-0ff7f7?style=for-the-badge&logo=google-chrome&logoColor=black" /></a>
   <a href="mailto:harunakadiri702@gmail.com"><img src="https://img.shields.io/badge/Email-ffea00?style=for-the-badge&logo=gmail&logoColor=black" /></a>
   <a href="https://api.whatsapp.com/send?phone=+2347032151593"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
@@ -52,7 +50,7 @@ timeline
 ## 🛠️ Skills & Tools
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,python,django,mongodb,mysql,postgres,docker,git,github,linux,azure,aws" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,python,django,mongodb,mysql,postgres,docker,git,github,linux,azure,aws,ubuntu,typescript,vuejs,css,html" />
 </div>
 
 ---
@@ -90,7 +88,8 @@ CSS           ██▌░░░░░░░░░░░░░░░░░░░
   <tr>
     <td align="center">
       <a href="https://github.com/MyLikita-Health/mylikitav3">
-        <img src="https://github.com/MyLikita-Health/mylikitav3/raw/main/public/logo.png" width="120" />
+<!--         <img src="https://github.com/MyLikita-Health/mylikitav3/raw/main/public/logo.png" width="120" /> -->
+        <img src="https://github.com/user-attachments/assets/da342422-e6c1-4c61-aea6-b1c20e0bf50e" width="120" />
         <br/><b>MyLikita Health</b>
       </a>
       <br/>
