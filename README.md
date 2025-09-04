@@ -1,9 +1,9 @@
 <p align="left">
   <img src="https://hatscripts.github.io/circle-flags/flags/ng.svg" width="48" />
 </p>
-<p align="right">
+<!-- <p align="right">
   <img width="48" height="48" alt="image" src="https://github.com/user-attachments/assets/40dc8eed-4d87-4f4c-968f-1d3c61ee0d58" />
-</p>
+</p> -->
 <!-- Animated Gradient Banner -->
 <p align="center">
 <img width="250" height="350" alt="Gemini_Generated_Image_y801cuy801cuy801" src="https://github.com/user-attachments/assets/c3d11e8e-860f-4874-a0f3-f8e5aaf67a63" />
