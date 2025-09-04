@@ -72,14 +72,14 @@ timeline
 
 
 ---
-
+<p align="center">
 📊 Weekly Development Breakdown
 JavaScript    ████████████████████▋░░   82.5%
 TypeScript    ██████▊░░░░░░░░░░░░░░░░   24.3%
 Python        █████▌░░░░░░░░░░░░░░░░░   20.1%
 HTML          ██▊░░░░░░░░░░░░░░░░░░░░   8.7%
 CSS           ██▌░░░░░░░░░░░░░░░░░░░░   7.9%
-
+</p>
 ---
 
 ## 🌟 Featured Projects
@@ -136,14 +136,6 @@ CSS           ██▌░░░░░░░░░░░░░░░░░░░
 
 ## 🔗 My Socials & Portfolio
 
-<div align="center">
-  <a href="https://sadiqharuna.netlify.app"><img src="https://img.shields.io/badge/Portfolio-0ff7f7?style=for-the-badge&logo=google-chrome&logoColor=black" /></a>
-  <a href="mailto:harunakadiri702@gmail.com"><img src="https://img.shields.io/badge/Email-ffea00?style=for-the-badge&logo=gmail&logoColor=black" /></a>
-  <a href="https://api.whatsapp.com/send?phone=+2347032151593"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
-</div>
-
----
-
 ---
 🔗 Connect With Me
 <div align="center"> <a href="https://sadiqharuna.netlify.app"><img src="https://img.shields.io/badge/Portfolio-0ff7f7?style=for-the-badge&logo=google-chrome&logoColor=black" /></a> <a href="mailto:harunakadiri702@gmail.com"><img src="https://img.shields.io/badge/Email-ffea00?style=for-the-badge&logo=gmail&logoColor=black" /></a> <a href="https://api.whatsapp.com/send?phone=+2347032151593"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a> <a href="https://linkedin.com/in/sadiq-haruna"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://twitter.com/SadiqHaruna"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://github.com/Charly070321"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a> </div>
@@ -158,9 +150,13 @@ CSS           ██▌░░░░░░░░░░░░░░░░░░░
 
 ---
 
+---
+<!-- Footer Banner --><p align="center"> <img src="https://raw.githubusercontent.com/Charly070321/Charly070321/main/assets/footer.svg" alt="Thanks for visiting!" width="100%" /> </p><p align="center"> <i>Thank you for visiting my profile! Have a great day! 😊</i> </p>
+---
+
 <!-- Footer Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Charly070321/Charly070321/main/assets/footer.svg" alt="Thanks for visiting!" width="100%" />
+  <img src="https://raw.githubusercontent.com/Charly070321/Charly070321/main/assets/footer.svg" alt="Thanks for visiting!" width="100%" /> </p><p align="center"> <i>Thank you for visiting my profile! Have a great day! 😊</i> </p>
 </p>
 
 ---
