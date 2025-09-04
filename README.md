@@ -1,3 +1,6 @@
+<p align="left">
+  <img src="https://hatscripts.github.io/circle-flags/flags/ng.svg" width="48" />
+</p>
 <!-- Animated Gradient Banner -->
 <p align="center">
 <img width="250" height="350" alt="Gemini_Generated_Image_y801cuy801cuy801" src="https://github.com/user-attachments/assets/c3d11e8e-860f-4874-a0f3-f8e5aaf67a63" />
@@ -97,11 +100,12 @@ CSS           ██▌░░░░░░░░░░░░░░░░░░░
     </td>
     <td align="center">
       <a href="https://github.com/Charly070321/kanohackathon">
-        <img src="https://github.com/Charly070321/kanohackathon/raw/main/assets/banner.png" width="120" />
-        <br/><b>Kano Hackathon</b>
+<!--         <img src="https://github.com/Charly070321/kanohackathon/raw/main/assets/banner.png" width="120" /> -->
+        <img src="https://github.com/user-attachments/assets/e5014258-5638-451a-ab1d-56fefcccae0a" width="120" />
+        <br/><b>School Management System</b>
       </a>
       <br/>
-      <sub>Innovation challenge portal</sub>
+      <sub>school platform</sub>
     </td>
     <td align="center">
       <a href="https://github.com/bits-his/budget-frontend">
