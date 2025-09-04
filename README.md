@@ -1,6 +1,6 @@
 <!-- Animated Gradient Banner -->
 <p align="center">
-<img width="250" height="200" alt="Gemini_Generated_Image_y801cuy801cuy801" src="https://github.com/user-attachments/assets/c3d11e8e-860f-4874-a0f3-f8e5aaf67a63" />
+<img width="250" height="350" alt="Gemini_Generated_Image_y801cuy801cuy801" src="https://github.com/user-attachments/assets/c3d11e8e-860f-4874-a0f3-f8e5aaf67a63" />
 <!--    alt="Neon Banner" width="100%" /> -->
 </p>
 
