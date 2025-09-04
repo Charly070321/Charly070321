@@ -119,6 +119,18 @@ Medical AI
       <br/>
       <sub>Financial management dashboard</sub>
     </td>
+    <td align="center">
+      <a href="https://github.com/bits-his/budget-frontend">
+<!--         <img src="https://github.com/bits-his/budget-frontend/raw/main/public/logo.png" width="120" /> -->
+        [<img src="https://github.com/user-attachments/assets/befc51f9-c4f6-4ff9-a845-68d86f2d05ab" width="120" />](https://sadiqharuna.netlify.app/static/media/mm6.c701cebfcdd6fba217c2.jpg)
+        <br/><b>Award-Winning AI Healthcare Platform
+The Future of
+Medical AI
+</b>
+      </a>
+      <br/>
+      <sub>Financial management dashboard</sub>
+    </td>
   </tr>
 </table>
 
