@@ -56,7 +56,7 @@ timeline
 ## 🛠️ Skills & Tools
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,python,django,mongodb,mysql,postgres,docker,git,github,linux,azure,aws,ubuntu,typescript,vuejs,css,html" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,python,mysql,postgres,git,github,linux,azure,aws,ubuntu,typescript,vuejs,css,html" />
 </div>
 
 ---
