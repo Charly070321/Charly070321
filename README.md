@@ -4,7 +4,7 @@
 </p>
 
 
-<img src="https://hatscripts.github.io/circle-flags/flags/ng.svg" width="48" />
+<img align="center" src="https://hatscripts.github.io/circle-flags/flags/ng.svg" width="48" />
 
 <!-- Profile Info -->
 <h2 align="center">👋 Hi, I’m <span style="color:#0ff7f7">@SADIQ HARUNA</span></h2>
@@ -50,7 +50,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Charly070321&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Charly070321&theme=radical" alt="GitHub Streak" />
+  <img src="[https://github-readme-streak-stats.herokuapp.com/?user=Charly070321&theme=radical](https://streak-stats.demolab.com/?user=Charly070321&theme=radical)" alt="GitHub Streak" />
 </p>
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Charly070321&theme=react-dark" alt="Activity Graph" />
