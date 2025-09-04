@@ -6,13 +6,13 @@
 
 <!-- Typing effect intro -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=F700FF&center=true&vCenter=true&width=700&lines=Hello+World!+I'm+SADIQ+HARUNA;  Fullstack+Developer+and+Tech+Enthusiast;        Building+the+future,+one+line+at+a+time!" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=F700FF&center=true&vCenter=true&width=700&lines=Hello+World!+I'm+SADIQ+HARUNA;Fullstack+Developer+and+Tech+Enthusiast;Building+the+future,+one+line+at+a+time!" />
 </p>
 
 <!-- Profile picture and social links -->
 <p align="center">
 <!--   <img src="https://avatars.githubusercontent.com/u/Charly070321?v=4" width="150" style="border-radius:50%;border:4px solid #ff00cc;" /> -->
-  <img width="150" style="border-radius:50%;border:4px solid #ff00cc; alt="image" src="https://github.com/user-attachments/assets/4fd57a40-c82a-43ad-97a4-6cc163af37d8" />
+  <img src="https://github.com/user-attachments/assets/4fd57a40-c82a-43ad-97a4-6cc163af37d8" width="150" style="border-radius:50%;border:4px solid #ff00cc; />
 
   <br/>
   <a href="https://sadiqharuna.netlify.app"><img src="https://img.shields.io/badge/Website-0ff7f7?style=for-the-badge&logo=google-chrome&logoColor=black" /></a>
