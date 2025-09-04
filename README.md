@@ -105,7 +105,7 @@ CSS           ██▌░░░░░░░░░░░░░░░░░░░
         <br/><b>School Management System</b>
       </a>
       <br/>
-      <sub>school platform</sub>
+<!--       <sub>School Platform</sub> -->
     </td>
     <td align="center">
       <a href="https://github.com/bits-his/budget-frontend">
@@ -117,19 +117,19 @@ Medical AI
 </b>
       </a>
       <br/>
-      <sub>Financial management dashboard</sub>
+<!--       <sub>Financial management dashboard</sub> -->
     </td>
     <td align="center">
-      <a href="https://github.com/bits-his/budget-frontend">
+      <a href="https://github.com/Charly070321">
 <!--         <img src="https://github.com/bits-his/budget-frontend/raw/main/public/logo.png" width="120" /> -->
-        [<img src="https://github.com/user-attachments/assets/befc51f9-c4f6-4ff9-a845-68d86f2d05ab" width="120" />](https://sadiqharuna.netlify.app/static/media/mm6.c701cebfcdd6fba217c2.jpg)
-        <br/><b>Award-Winning AI Healthcare Platform
+       <img src="https://github.com/user-attachments/assets/0987fa01-e581-4a6d-9179-10307676e07b" width="120" />
+        <br/><b>Telehealth Software Both "Mobile & Web"
 The Future of
 Medical AI
 </b>
       </a>
       <br/>
-      <sub>Financial management dashboard</sub>
+<!--       <sub>Telehealth Software Both "Mobile & Web"</sub> -->
     </td>
   </tr>
 </table>
