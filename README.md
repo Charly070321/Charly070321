@@ -149,7 +149,12 @@ CSS           ██▌░░░░░░░░░░░░░░░░░░░
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bits-his&repo=budget-frontend)](https://github.com/bits-his/budget-frontend)
 
 ---
+📌 Pinned Repositories
+https://github-readme-stats.vercel.app/api/pin/?username=MyLikita-Health&repo=mylikitav3&show_owner=true
+https://github-readme-stats.vercel.app/api/pin/?username=Charly070321&repo=kanohackathon&show_owner=true
 
+https://github-readme-stats.vercel.app/api/pin/?username=bits-his&repo=budget-frontend&show_owner=true
+https://github-readme-stats.vercel.app/api/pin/?username=Charly070321&repo=community-learning-platform&show_owner=true
 ---
 <!-- Footer Banner --><p align="center"> <img src="https://raw.githubusercontent.com/Charly070321/Charly070321/main/assets/footer.svg" alt="Thanks for visiting!" width="100%" /> </p><p align="center"> <i>Thank you for visiting my profile! Have a great day! 😊</i> </p>
 ---
