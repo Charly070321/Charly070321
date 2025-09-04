@@ -1,6 +1,9 @@
 <p align="left">
   <img src="https://hatscripts.github.io/circle-flags/flags/ng.svg" width="48" />
 </p>
+<p align="right">
+  <img width="48" height="48" alt="image" src="https://github.com/user-attachments/assets/40dc8eed-4d87-4f4c-968f-1d3c61ee0d58" />
+</p>
 <!-- Animated Gradient Banner -->
 <p align="center">
 <img width="250" height="350" alt="Gemini_Generated_Image_y801cuy801cuy801" src="https://github.com/user-attachments/assets/c3d11e8e-860f-4874-a0f3-f8e5aaf67a63" />
@@ -174,9 +177,6 @@ Ready to build something awesome together?
 
 <!-- Pinned Repositories -->
 ## 📌 Pinned Projects
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MyLikita-Health&repo=mylikitav3)](https://github.com/MyLikita-Health/mylikitav3)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Charly070321&repo=kanohackathon)](https://github.com/Charly070321/kanohackathon)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bits-his&repo=budget-frontend)](https://github.com/bits-his/budget-frontend)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bits-his&repo=budget-frontend)](https://github.com/bits-his/budget-frontend)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bits-his&repo=budget-frontend)](https://github.com/bits-his/budget-frontend)
@@ -184,7 +184,8 @@ Ready to build something awesome together?
 
 <!-- Footer Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Charly070321/Charly070321/main/assets/footer.svg" alt="Thanks for visiting!" width="100%" /> </p><p align="center"> <i>Thank you for visiting my profile! Have a great day! 😊</i> </p>
+  <img src="<img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/4f6142b8-d52d-48f8-93f6-84d0a1c8e071" />
+  <i>Thank you for visiting my profile! Have a great day! 😊</i> </p>
 </p>
 
 ---
